@@ -1,12 +1,12 @@
 # 全球AI网站汇总
 
 > 提供丰富而全面的AI网站汇总，[资料来源](https://www.543x.com)  
-> 更好的阅读地址（带目录导航）：[(https://ai.543x.com](https://ai.543x.com)  
+> 更好的阅读地址（目录导航）：[(https://ai.543x.com](https://ai.543x.com)  
 
 ## AI写作工具
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Monica](https://monica.im/) | 在任意网页使用ChatGPT的魔法插件 |
 | [5118AI文本写作](https://www.5118.com/ai/articlegenius?promote=aigccn) | 一键生成高质量SEO原创文章. |
 | [ChatGPT](https://chat.openai.com/) | ChatGPT 可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求。 |
@@ -61,7 +61,7 @@
 ## AI绘画生成-文生图
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [绘创AI](https://www.origins.chat/?v=1649040074144268290) | 基于人工智能AI绘画技术,可在线编辑 |
 | [GRAVITI Diffus](https://www.diffus.graviti.com/) | 在线Stable Diffusion WebUI无需安装 |
 | [星图比特StarBitech](https://www.gachafun.com/) | 一站式应用AI模型全生命周期服务商 |
@@ -106,7 +106,7 @@
 ## AI聊天机器人
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [二狗问答](https://2dog.51mskd.com/chat) | GPT4国内可用，免费体验，速度快 |
 | [事半网](https://halfwork.cn/?invite=9dce88b4-431c-4fb7-bc4c-483f8ec41d41) | 一键聊天、生成文章、图片、声音等 |
 | [灵境AI](https://lingjingai.cn) | 一款激发灵感的AI对话机器人 |
@@ -130,7 +130,7 @@
 ## AI办公工具
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [集智魔方AI BOX](http://www.chatbox.cool/#/home) | 10秒钟创建属于自己的 AI 应用平台 |
 | [TreeMind树图](https://shutu.cn/?from=aigc.cn) | 新一代“AI人工智能”思维导图 |
 | [内容神器 – 新媒体文章编辑器](https://www.5ce.com/) | 及时发现热点、搜索素材、选题分析 |
@@ -169,7 +169,7 @@
 ## AI语义提示
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Ai-art](https://www.ai-art.com.cn) | 这里收集了全球优秀设计师使用 Midjourney等Ai工具生成的作品，一起看看他们用的“咒语”吧。 |
 | [墨本midjourney关键词提示工具](https://www.mbprompt.com/#/) | 拥有1600多种midjourney的关键词并附带中英文对照，只需要点击关键词即可粘贴到discord生成相应图片，并支持Chat GPT生成midjourne |
 | [ChatGPT Shortcut](https://ai.newzone.top/) | 让生产力加倍的 ChatGPT 快捷指令 |
@@ -215,7 +215,7 @@
 ## AI内容检测器
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [人民网AIGC-X](http://ai.sklccc.com/AIGC-X/#/) | 传播内容认知全国重点实验室、中国科学技术大学、合肥综合性国家科学中心人工智能研究院联合推出的AI生成内容检测工具，可以快速分辨出内容是机器生成还是人工生成的。 |
 | [ORIGINALITY.AI](https://originality.ai/) | AI是专门为网络出版商设计的... |
 | [thomas.io（detect-gpt）](https://www.thomas.io/) | 检测GPT是一个Chrome扩展，扫... |
@@ -233,7 +233,7 @@
 ## AI智能翻译
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [TranSmart腾讯交互翻译](https://transmart.qq.com/zh-CN/index) | 一款基于腾讯语音、图像、自然语言处理等领域的技术开发的新一代智能翻译设备 |
 | [DeepL-translator](https://www.deepl.com/translator) | DeepL Pro是一款由人工智能和神经网络提供支持的专业翻译服务，可跨多种设备和应用程序(包括文档、网页、电子邮件和口头对话)提供准确、安全和可定制的翻译 |
 | [Whisper（OpenAI）](https://openai.com/blog/whisper/) | Whisper是一个开源的自动语音识别系统，经过68万小时的多语言和多任务监督数据训练，这些数据是从网络上收集的。 |
@@ -251,7 +251,7 @@
 ## AI搜索引警
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Consensus](https://consensus.app/) | 一种搜索引擎，人工智能即时提取 |
 | [Komo Search](https://komo.ai/) | Komo搜索利用生成式人工智能... |
 | [Kailua Labs](https://app.kailualabs.com/image-search) | 在你的应用中构建强大的多模... |
@@ -280,7 +280,7 @@
 ## AI营销工具
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [5118营销大数据](https://www.5118.com/?promote=aigccn) | 5118站长工具，关键词挖掘，流量词 |
 | [Jounce](https://www.jounce.ai/) | 营销领域已经开始逐渐转向人... |
 | [Autoenhance.AI](https://www.autoenhance.ai/) | Autoenhance.AI“我们的使命是为营销企业提供即时照片增强功能。”编辑器可增强您的工作流程。 |
@@ -304,7 +304,7 @@
 ## AI语音生成-文转音
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [标贝悦读AI配音](https://yuedu.data-baker.com/) | 标贝悦读AI配音技术提供了多... |
 | [FineVoice](https://www.fineshare.com/) | FineVoice是一种人工智能数字语音解决方案，可以帮助用户增强声音，并实时改变声音。它配有实时变声器，无限的音频和声音效果，录音室质量的录音机，文本到语音，语音到文本。 |
 | [VALL-E](https://valle-demo.github.io/) | VALL-E一种用于文本到语音合成 (TTS) 的语言建模方法。具体来说，我们使用从现成的神经音频编解码器模型派生的离散代码来训练神经编解码器语言模型（称为 VALL-E），并将 TTS 视为条件语言建模任务，而不是像以前的工作那样连续信号回归。 |
@@ -344,7 +344,7 @@
 ## AI语音识别-音转文
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Nuance](https://www.nuance.com/index.html) | Nuance是一家语音识别、自然语言理解和文本到语音技术领域的全球领导者。 |
 | [FineVoice](https://www.fineshare.com/) | FineVoice是一种人工智能数字语音解决方案，可以帮助用户增强声音，并实时改变声音。 |
 | [Otter.ai](https://otter.ai/) | Otter.ai是一个自动的会议记录和笔记工具，帮助团队充分利用他们的会议。 |
@@ -358,7 +358,7 @@
 ## AI语音合成
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Dolly AI](https://dollyai.0xaf.repl.co/) | Fork your voice in a flash |
 | [FineVoice](https://www.fineshare.com/) | FineVoice是一种人工智能数字语音解决方案，可以帮助用户增强声音，并实时改变声音。它配有实时变声器，无限的音频和声音效果，录音室质量的录音机，文本到语音，语音到文本。 |
 | [MetaVoice Studio](https://studio.themetavoice.xyz/) | MetaVoice Studio允许用户录制自己的声音或上传文件来创建自定义语音剪辑。它提供了一个免费的计划，有6个声音，30秒的剪辑长度，和一个非商业许可。付费计划包括8个声音、10分钟剪辑长度、商业许可和自定义声音(即将推出)。它还提供了具有自定义定价、API访问和微调支持的企业解决方案。 |
@@ -380,7 +380,7 @@
 ## AI音乐制作
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [BGM猫](https://bgmcat.com/) | BGM猫-选择你喜欢的标签，自动生成你想要的音乐。 |
 | [反谱](https://www.serocs.cn/) | 人工智能实现音乐转乐谱和人声伴奏分离 |
 | [网易·天音](https://tianyin.163.com/#/) | 网易推出的一站式音乐创作工具 |
@@ -410,7 +410,7 @@
 ## AI图像设计
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [神采](https://www.promeai.com/) | 快速将线稿转化为完整的上色稿 |
 | [AlibabaWOOD](https://alibabawood.aliyun.com/web/Home) | 阿里达摩院自动剪辑故事性的短视频 |
 | [Looka](https://looka.com/) | 使用 Looka 的人工智能平台设计徽标并打造您喜爱的品牌。 |
@@ -434,7 +434,7 @@
 ## AI图像处理
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [AI改图神器](https://img.logosc.cn/) | 万能图片在线编辑器；一键修改照片颜色大小尺寸，自定义尺寸图片裁剪，智能抠图添加水印文字。 |
 | [Clipdrop](https://clipdrop.co/) | 由人工智能提供支持的面向所有创作者的应用程序、插件和资源的终极生态系统。 |
 | [Bigjpg](https://bigjpg.com/) | 放大原理是什么？ 使用最新人... |
@@ -462,7 +462,7 @@
 ## AI头像化身
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [WaifuLabs](https://waifulabs.com/generate) | WaifuLabs 让我们完成了不可能的事情：它让我们极小的游戏工作室有能力承担内容制作的巨大壮举。Arrowmancer使用 Waifu Labs 和 GPT-3 的魔力来创造无限的美丽迷人的角色。 |
 | [Facetune](https://www.facetuneapp.com/) | Facetune是一款在线照片和视频编辑工具，允许用户创建人工智能头像，增强他们的自拍照，并尝试不同的外观。它提供了精确的工具来表达独特的风格和创建令人惊叹的视觉内容。 |
 | [ImagetoCartoon](https://imagetocartoon.com/) | ImagetoCartoon是一款在线AI漫画家，可以将人脸转换成卡通或动漫风格的图像。它可以在几秒钟内将图像转换为卡通，并创建10+具有不同背景和姿势的卡通头像。 |
@@ -489,7 +489,7 @@
 ## AI-3D生成
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [LATENT LABS【AI+VR】](https://www.latentlabs.art/) | 潜伏实验室马上回来!这里有一个即将到来的预览…加载……童话支柱;美丽的天空;灰色的地牢;空间站城 |
 | [行者AI](https://www.xingzheai.cn/) | 行者AI专注于人工智能在游戏领域的研究和应用，凭借自研算法推出游戏AI、内容审核、数据平台等产品。游戏AI应用于游戏智能匹配、AI自动化测试、玩家情感调节等多个方面，优化玩家游戏体验，提升用户留存率。 |
 | [In3D](https://in3d.io/) | In3D把人变成逼真的化身，使用手机摄像头在一分钟内为您的元宇宙、游戏或应用程序创建逼真且可自定义的头像 |
@@ -516,7 +516,7 @@
 ## AI视频生成-文生视
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Reachout.ai](https://reachout.ai/) | Reachout.ai是一个人工智能驱动的视频开发平台，专为忙碌的企业家和销售团队打造，他们希望突破收件箱的噪音，大规模生成个性化视频，并获得更高的电子邮件回复率和更多与理想客户的会议。 |
 | [一帧秒创](https://aigc.yizhentv.com/?_f=aigc.cn) | 图文转视频、智能语义分析、智能配音、智能字幕 |
 | [Quinvio AI](https://www.quinv.io/ai) | 用人工智能建议来涂鸦你的内... |
@@ -550,7 +550,7 @@
 ## AI视频后期
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [FlexClip](https://www.flexclip.com/cn/) | 在线视频编辑器 |
 | [百度·度咔剪辑](https://ducut.baidu.com/) | 面向泛知识创作者的视频剪辑工具 |
 | [Vidyo.ai](https://vidyo.ai/) | 从长视频立即制作短视频。 使... |
@@ -605,7 +605,7 @@
 ## AI数字虚拟人
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [腾讯智影·综合工具](https://zenvideo.qq.com/activity/invitee?invitation_code=zjQJFbTmU0FDud5D) | 智影是一个集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的在线剪辑平台，能够为用户提供从端到端的一站式视频剪辑及制作服务。 |
 | [硅基智能](https://www.guiji.ai/#/index) | 打造硅基劳动力，让人回归人的价值 |
 | [re;memory](https://rememory.deepbrainai.io/) | 通过恢复你所爱的人的容貌和声音，你的记忆和情感将永远保存下来。与你的父母和奶奶团聚。 |
@@ -622,7 +622,7 @@
 ## AI游戏应用
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Ludo AI](https://ludo.ai/) | Ludo AI是一个基于AI的平台，旨在帮助游戏开发者进行创造过程。它可以生成新的游戏概念，跟踪游戏趋势，并对游戏和图像进行研究。它还有一个游戏概念文档工具，允许用户保存他们所有的研究和游戏想法在一个地方。Ludo AI是免费使用的，不需要信用卡。 |
 | [Convai Technologies Inc.](https://convai.com/) | Convai Technologies Inc.为虚拟世界提供会话式人工智能。它是为与角色的实时端到端基于语音的交互而设计的，并为支持数百万用户的规模进行了优化。它允许用户设计自己的基于对话的角色和基于语音的游戏，并与游戏引擎中的NPC资产连接。它还允许角色进行开放式的语音对话并执行行动。 |
 | [Orbofi](https://www.orbofi.com/) | Orbofi允许用户为web3、游戏和元宇宙创建人工智能生成的资产、工厂和角色。它还允许用户上传人工智能生成的图像和提示，并将其标记在区块链上出售加密货币。 |
@@ -645,7 +645,7 @@
 ## AI教育助理
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Talk To Books](https://books.google.com/talktobooks/) | 一种探索想法和发现书籍的新... |
 | [识典古籍](https://www.shidianguji.com/) | 识典古籍是抖音公益与北大合作共建的古籍阅读平台。致力于为用户提供免费公开、稳定、快速、方便的... |
 | [Papers GPT](https://jessezhang.org/) | 使您能够将任何科学论文输入 ... |
@@ -696,7 +696,7 @@
 ## AI学习平台
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [飞桨AI Studio](https://aistudio.baidu.com/) | 百度飞桨人工智能学习实训社区 |
 | [BILLIANT神经网络概论](https://brilliant.org/courses/intro-neural-networks/) | 研究神经网络的机制,学习工具如何工作 |
 | [MachineLearningMastery](https://machinelearningmastery.com/start-here/) | 5 个步骤对机器学习入门的最佳建议 |
@@ -716,7 +716,7 @@
 ## AI开发者社区
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [飞桨PaddlePaddle开发者社区](https://www.paddlepaddle.org.cn/developercommunity) | 飞桨PaddlePaddle开发者社区，通过贡献代码、贡献文档、加入讨论与布道，与社区共同进步 |
 | [美图AI开放平台](https://ai.meitu.com/index/) | 美图AI开放平台是美图公司推出的AI服务平台，专注于人脸技术、人体技术、图像识别、图像处理、图像生成等核心领域，为客户提供经市场验证的专业AI算法服务和解决方案。 |
 | [Meta AI](https://ai.facebook.com/tools/#libraries-and-models) | 推动世界人工智能发展的工具 |
@@ -735,7 +735,7 @@
 ## AI开源平台
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [MOSS(复旦大模型)](https://moss.fastnlp.top/) | 复旦大模型MOSS，正式开源了 |
 | [AliGenie（天猫精灵开放平台）](https://www.aligenie.com/) | AliGenie一款智能音箱开发平台 |
 | [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) | Google Colab |
@@ -759,7 +759,7 @@
 ## AI辅助编程
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [OpenGPT](https://open-gpt.app/) | 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。 |
 | [CodiumAI](https://www.codium.ai/) | CodiumAI是一款基于人工智能... |
 | [HTTPie AI](https://httpie.io/ai) | HTTPie AI 是一款基于 OpenAI... |
@@ -787,7 +787,7 @@
 ## AI训练模型
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Video Diffusion Models](https://video-diffusion.github.io/) | 我们展示了使用扩散模型生成... |
 | [Stable Diffusion Models（2）](https://cyberes.github.io/stable-diffusion-models/) | Stable Diffusion模型收录集合 |
 | [Stable Diffusion Models（1）](https://rentry.co/sdmodels) | Stable Diffusion模型收录集合 |
@@ -807,7 +807,7 @@
 ## AI应用接门API
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Video Diffusion Models](https://video-diffusion.github.io/) | 我们展示了使用扩散模型生成... |
 | [Stable Diffusion Models（2）](https://cyberes.github.io/stable-diffusion-models/) | Stable Diffusion模型收录集合 |
 | [Stable Diffusion Models（1）](https://rentry.co/sdmodels) | Stable Diffusion模型收录集合 |
@@ -827,7 +827,7 @@
 ## AI低(无)代码编程
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Brancher AI](https://www.brancher.ai) | 通过让用户有能力将人工智能模型连接在一起并产生独特的人工智能驱动的应用程序，使所有人都能使用人工智能。盈利并与世界分享你的创作。 |
 | [Browse AI](https://browse.ai/?via=futurepedia) | 从任何网站提取和监测数据的... |
 | [Knowmax](https://knowmax.ai) | Knowmax是一个使用人工智能的... |
@@ -882,7 +882,7 @@
 ## AI-SQL数据库
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [AIHelperBot](https://aihelperbot.com/) | 使用AI即时构建SQL查询。在没... |
 | [Avanty](https://avanty.app/) | 不要再把宝贵的数据分析时间... |
 | [TableTalk](https://www.tabletalk.ai/) | 利用人工智能来更好地规划你... |
@@ -898,7 +898,7 @@
 ## AI流量优化
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [SurferSEO](https://surferseo.com/) | SurferSEO优化大纲是一款基于... |
 | [growthbar](https://www.growthbarseo.com) | 为博客文章、网站页面和文章... |
 | [Article Fiesta](https://www.futurepedia.io/tool/article-fiesta) |  |
@@ -948,7 +948,7 @@
 ## AI科研机构
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [AI请回答](http://www.astro-ai4sci.com/) | AI for Science平台 |
 | [澜舟科技](https://www.langboat.com/) | 澜舟科技是业界领先的认知智能公司，致力于以自然语言处理（NLP）技术为基础，为全球企业提供新一代认知智能平台，助力企业数字化转型升级。 |
 | [Scispace](https://typeset.io/) | 你的AI副驾驶解码任何研究论... |
@@ -999,7 +999,7 @@
 ## AI生命科学
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [医真AI+](http://aistore.yizhen.cn/yizhen-aistore/index.jsp) | 医真AI+自成立以来，专注于医疗影像、超声、内镜、核医学、病理等全医技医疗大数据底层核心技术的自主研发及应用，在医技业务、医技大数据应用、协同、科研、运营、百姓感知及人工智能方面具备高度先进与成熟的应用，截止目前已服务2500+医疗机构。 |
 | [左手医生](https://open.zuoshouyisheng.com/) | 左手医生通过开放平台赋能医疗健康行业，为医疗机构、信息化厂商、医药企业、连锁药店、健康管理机构、智能硬件等合作伙伴提供多种类型的高质量智能医生服务。 |
 | [Lunit](https://www.lunit.io/) | Lunit是一家上市公司，开发有助于征服癌症的医疗AI软件。对于癌症，生存通常取决于它被发现的早期程度，而Lunit的癌症筛查AI帮助医生更早地发现它。 |
@@ -1023,7 +1023,7 @@
 ## AI好玩有趣
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) | 我们的文字作为图像插图在不同的字体和不同的文本概念。使用我们的方法，语义调整的字母完全自动创建，然后可以用于进一步的创造性设计，正如我们在这里所演示的那样。 |
 | [ChefGPT](https://www.chefgpt.xyz/) | ChefGPT人工智能的食谱推荐工具，帮助你再也不用担心晚餐吃什么了。它会根据你所拥有的食材和工具，以及你所拥有的时间来建议食谱。它有两个厨师模式，美食家模式，只使用最好的食材组合和all - in模式，使用所有列出的食材。 |
 | [DreamEscape](https://apps.apple.com/app/id1664272484) | Gift Box是一个为某人寻找完美礼物的有用工具。它允许用户选择他们正在寻找礼物的人的类型，如丈夫，妻子，母亲，父亲，兄弟，姐妹等，以及接受者的年龄。然后，它提供了一个适合这个人的礼物建议列表。 |
@@ -1044,7 +1044,7 @@
 ## AI生活助手
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [Resume Worded](https://resumeworded.com/index.php) | 改善您的简历和 LinkedIn 个... |
 | [Journeai](https://journeai.com/) | 与谷歌地图集成的超个性化旅... |
 | [TheoAssist](https://theoassist.com/) | 圣经伴侣，要点讲道，圣经教... |
@@ -1099,7 +1099,7 @@
 ## AI专业全球大学TOP
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [卡内基梅隆大学](https://www.cmu.edu/research/index.html) | 卡内基梅隆大学（Carnegie Mellon University），简称CMU，是坐落于美国宾夕法尼亚州的匹兹堡的私立大学，“新常春藤”，全球大学校长论坛成员。拥有14,800名在校学生和1,483名教职及科研人员。 |
 | [麻省理工学院](https://www.mit.edu) | 麻省理工学院（Massachusetts Institute of Technology），简称“麻省理工”（MIT），创立于1861年，位于美国马萨诸塞州波士顿都市区剑桥市，主校区依查尔斯河而建，是一所享誉世界的顶尖私立研究型大学，全球大学校长论坛成员。 |
 | [斯坦福大学](https://www.stanford.edu/) | 斯坦福大学（Stanford University），全名小利兰·斯坦福大学（Leland Stanford Junior University），简称“斯坦福”，位于美国加州旧金山湾区南部帕罗奥多市境内，临近高科技园区硅谷（Silicon Valley），是私立研究型大学，全球大学校长论坛成员，全球大学高研院联盟成员。 |
@@ -1129,7 +1129,7 @@
 ## AI专业中国大学TOP
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [电子科技大学计算机科学与工程学院](https://www.scse.uestc.edu.cn/index.htm) | 学院有计算机科学与技术（智能金融与区块链金融“双A”联合学位实验班）、计算机科学与技术（“互联网+”复合型精英人才双学位培养计划）、人工智能、计算机类(计算机科学与技术、网络空间安全、数字媒体技术、数据科学与大数据技术)4个本科专业。且计算机科学与技术、网络空间安全为国家级特色专业，现有在校生3500余人，其中本科生近1800人，硕博研究生1500余人，留学生近200人。 |
 | [西安电子科技大学人工智能学院](https://sai.xidian.edu.cn/) | 学院拥有一支结构合理、具有国际视野的高水平师资队伍，其中：欧洲科学院外籍院士、俄罗斯科学院外籍院士1人，入选国家高端人才15人次（国家级领军人才5人次、国家级青年人才10人次），入选省部级高层次人才14人次。 |
 | [北京大学人工智能研究院](http://www.ai.pku.edu.cn/) | 北京大学人工智能研究院（Institute for Artificial Intelligence, Peking University）于2019年4月27日宣布成立，作为学校直属的独立实体机构，是统筹全校相关资源、建设世界一流智能学科、服务国家人工智能重大战略、培养智能学科一流人才的主要支撑平台。 |
@@ -1155,7 +1155,7 @@
 ## AI中文官方机构
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [国家发展和改革委员会](https://www.ndrc.gov.cn/) | 国家发展和改革委员会主要职责是：拟订并组织实施国民经济和社会发展战略、中长期规划和年度计划。牵头组织统一规划体系建设。 |
 | [工业和信息化部](https://www.miit.gov.cn/) | 中华人民共和国工业和信息化部（简称：工业和信息化部，工信部），是根据2008年3月11日公布的国务院机构改革方案，组建的国务院组成部门。 |
 | [国家互联网信息办公室](http://www.cac.gov.cn/) | 中华人民共和国国家互联网信息办公室成立于2011年5月，主要职责：包括落实互联网信息传播方针政策和推动互联网信息传播法制建设，指导、协调、督促有关部门加强互联网信息内容管理，依法查处违法违规网站等。 |
@@ -1173,7 +1173,7 @@
 ## AI国际工具导航
 
 | 网站 | 描述 |
-
+| :---- | :---- |
 | [FuturePedia未来百科](https://www.futurepedia.io/) | Futurepedia 一个在线最大的人工智能AIGC工具目录,网站在线收录各种人工智能AI工具 |
 | [FutureTools未来工具](https://www.futuretools.io/) | FutureTools 收集并整理了所有最好的 AI 工具，让你也能成为超人！ |
 | [AI Library人工智能图书馆](https://library.phygital.plus/) | 探索 1000 多种工具和协作,带有语义搜索和过滤器。单击任何卡片以了解更多信息, |
