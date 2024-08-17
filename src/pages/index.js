@@ -5,12 +5,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import ReactMarkdown from 'react-markdown';
-import myMarkdownContent from '!!raw-loader!./navigation.md';
-
-function MyMarkdownComponent() {
-  return <ReactMarkdown>{myMarkdownContent}</ReactMarkdown>;
-}
 
 const features = [
   {
@@ -39,10 +33,42 @@ const features = [
   },
 ];
 
+const components = [
+  {
+    title: 'ChatGPT📚',
+    content: "ChatGPT 可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.",
+    url: 'https://chat.openai.com',
+  },
+  {
+    title: '阿里·通义千问📝',
+    content: '一个专门响应人类指令的大模型.',
+    url: 'https://tongyi.aliyun.com',
+  },
+  {
+    title: '百度·文心一言🐱',
+    content: '百度全新一代知识增强大语言模型.',
+    url: 'https://yiyan.baidu.com/welcome',
+  },
+  {
+    title: '腾讯Effidit🧠',
+    content: '腾讯 AI Lab 开发的智能创作助手.',
+    url: 'https://effidit.qq.com',
+  },
+  {
+    title: 'OpenGPT 💻',
+    content: 'OpenGPT是一种自然语言处理技..',
+    url: 'https://open-gpt.app',
+  },
+  {
+    title: 'websim🚀',
+    content: 'Websim 是一个可以想象沉浸式网站和互联网的平台.',
+    url: 'https://websim.ai',
+  },
+];
+
 function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
-
   return (
     <Layout
       permalink="/"
@@ -62,13 +88,13 @@ function Home() {
               className="button button--outline button--primary button--lg"
               to={useBaseUrl('blog')}
             >
-              Get Started
+              立即开始
             </Link>
           </div>
         </div>
       </div>
 
-      {features && features.length && (
+      {features.length > 0 && (
         <div className={styles.features}>
           <div className="container">
             <div className="row">
@@ -82,7 +108,26 @@ function Home() {
           </div>
         </div>
       )}
-      <MyMarkdownComponent />
+
+      {components.length > 0 && (
+        <div className={styles.features}>
+          <div className="container">
+            <div className="row">
+              {components.map(({ title, url, content }, idx) => (
+                <div key={idx} className={clsx('col col--4', styles.feature)}>
+                  <div className={styles.card}>
+                    <h3>{title}</h3>
+                    <p>{content}</p>
+                    <Link className="button button--primary" to={url}>
+                      访问网站
+                    </Link>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
     </Layout>
   );
 }

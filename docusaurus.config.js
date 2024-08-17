@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Create AI',
-  tagline: 'Bringing Blockchain to the World.',
+  tagline: '将AI带给世界.',
   url: 'https://r.543x.com',
   favicon: 'img/favicon.png',
 
@@ -78,11 +78,9 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/docs/AI-com/cookbook/accounts/calculate-rent', label: 'AIcom', position: 'right'},
-          {to: '/docs/AIlabs/account-compression/concepts', label: 'AIlabs', position: 'right'},
-          {to: '/docs/AI-Sealevel/anchordocs/avm', label: 'Sealevel', position: 'right'},
-          {to: '/docs/AI-web3/mean-vans-behave', label: 'AIweb3', position: 'right'},
-          {to: '/docs/soldeveloper/advanced/actions', label: 'developer', position: 'right'},
+          {to: '/docs/全球AI网站', label: '全球AI网站', position: 'right'},
+          {to: '/docs/ai网站', label: 'ChatGPT评测', position: 'right'},
+          {to: '/docs/hello-ai', label: '你好AI', position: 'right'},
           { href: 'https://e.543x.com', label: 'Help', position: 'right' },
           {
             href: 'https://github.com/543x/AI',
