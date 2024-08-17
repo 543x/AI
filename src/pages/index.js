@@ -6,7 +6,8 @@ import Layout from '@theme/Layout';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import ReactMarkdown from 'react-markdown';
-import myMarkdownContent from './navigation.md';
+import myMarkdownContent from '!!raw-loader!./navigation.md';
+
 function MyMarkdownComponent() {
   return <ReactMarkdown>{myMarkdownContent}</ReactMarkdown>;
 }
