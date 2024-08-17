@@ -1,6 +1,6 @@
-# Hello-AI
+# AI中文文档
 
-> English  |  **[中文文档](./README-zh.md)**
+ **[中文文档](./README-zh.md)**
 
 ## Overview
 

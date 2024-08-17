@@ -199,7 +199,3 @@ Supabase 是一个[托管平台](https://supabase.com/dashboard)。你可以注�
 - [翻译列表](/i18n/languages.md)
 
 ---
-
-## 赞助
-
-[![加入赞助](https://user-images.githubusercontent.com/10214025/90518111-e74bbb00-e198-11ea-8f88-c9e3c1aa4b5b.png)](https://github.com/sponsors/supabase)
