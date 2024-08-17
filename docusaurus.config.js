@@ -68,7 +68,7 @@ const config = {
         title: 'CREATE AI',
         logo: {
           alt: 'CREATE AI',
-          src: 'img/svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
