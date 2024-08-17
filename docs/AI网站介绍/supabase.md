@@ -59,7 +59,7 @@ Supabase 是一个[托管平台](https://supabase.com/dashboard)。你可以注�
 
 我们的客户库是模块化的。每一个子库都是一个独立的实现，用于一个单一的外部系统。这是我们支持现有工具的方式之一。
 
-<table style="table-layout:fixed; white-space: nowrap;">
+<table>
   <tr>
     <th>语言</th>
     <th>客户端</th>

@@ -1,9 +1,6 @@
-<h1 align="center" style="border-bottom: none">
-<b>
-<a href="https://www.appflowy.io">AppFlowy.IO</a>
-</b>
+
 ⭐️ Notion 的开源替代品 ⭐️ 
-</h1>
+
 
 <p align="center">
 您负责管理您的数据和自定义。

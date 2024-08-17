@@ -35,7 +35,7 @@ Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 
 
 
 ## 功能比较
-<table style="width: 100%;">
+<table>
   <tr>
     <th align="center">功能</th>
     <th align="center">Dify.AI</th>

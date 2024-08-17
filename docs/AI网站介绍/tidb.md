@@ -57,11 +57,6 @@ TiDB Cloud 是 TiDB 的全托管服务，目前可在 AWS 和 GCP 上使用。
 
 
 
-每个欢迎贡献者填写并提交此[表单](https://forms.pingcap.com/f/tidb-contribution-swag) 领取贡献奖品。
-
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank" style="display: block" align="center">
-</a>
-
 ## 案例研究
 
 - [英文案例研究](https://www.pingcap.com/customers/)
