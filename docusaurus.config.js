@@ -67,8 +67,8 @@ const config = {
       navbar: {
         title: 'CREATE AI',
         logo: {
-          alt: 'Create AI Logo',
-          src: 'img/logo.PNG',
+          alt: 'CREATE AI',
+          src: 'img/svg',
         },
         items: [
           {
