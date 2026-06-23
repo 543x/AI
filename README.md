@@ -637,6 +637,7 @@
 | [charisma.ai](https://charisma.ai/) | Charisma 独特的 AI 实现了角色驱动的体验，让观众沉浸在新的故事讲述和参与度中。 |
 | [rct AI](https://rct.ai/) | rct AI 正在为游戏行业提供人工智能解决方案 |
 | [AI Dungeon](https://play.aidungeon.io/) | 欢迎来到AI地牢,发挥和创造ai生成的冒险与无限的可能性。不知道从哪里开始? |
+| [Auferet](https://auferet.com/) | AI game master for solo text adventures and tabletop RPGs, with persistent memory and uploadable lore |
 | [Scenario](https://www.scenario.com/) | Scenario一个AI生成的游戏资产工具，使用户能够快速、轻松地为他们的游戏生成高质量、风格一致的专有资产。它允许用户创建自己的AI模型，用自己的数据进行定制训练，释放惊人的创造力，并生成独特的高质量内容，与他们的艺术方向紧密结合。 |
 | [G3D.ai](https://g3d.ai/) | 想象一下生活中的任何游戏。想想吧，玩吧。使游戏创作者能够在很短的时间内构建精美、新颖的游戏。我们正在构建一套工具 - 每一个都经过精心设计，以增强创造力并消除手动任务。 |
 | [Sloyd](https://www.sloyd.ai/) | Sloyd是一个3D建模工具，可以帮助用户快速轻松地为他们的项目创建3D资产。它使用参数生成器和机器学习实时创建游戏资产。它还具有一个可以在浏览器中使用的网络编辑器，以及一个不断扩展的生成器和定制选项库。 |
