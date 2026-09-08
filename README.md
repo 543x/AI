@@ -159,6 +159,7 @@
 | [Powtoon](https://www.powtoon.com/) | Powtoon 创建视觉交流都会放大您的结果。通过数百个动画角色、模板、视频背景、配乐等讲述引人入胜的故事。 |
 | [iQuit.ai](https://iquit.ai/) | 让我们的 AI 为您生成辞呈！ |
 | [kickresume](https://www.kickresume.com/en/) | 借助人工智能和我们的可自定义模板，快速创建精美的简历。在几分钟内创建一份完美的简历，给您未来的雇主留下深刻印象。 |
+| [ResumeAI](https://withresumeai.com/) | AI 简历构建与免费 ATS 检查（每天 3 次匿名 / 10 次免费账号）。 |
 | [Rezi.ai](https://www.rezi.ai/) | Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各个方面的简历平台——写作、编辑、格式化和优化。 |
 | [excelformulabot](https://excelformulabot.com/) | 在人工智能的帮助下，几秒钟内免费将文本指令转换为Excel公式。在几秒钟内精通Excel。 |
 | [Chatbase](https://www.chatbase.co/) | 只要上传一个pdf文件，就可以得到一个基于GPT的聊天机器人的链接，它可以回答上面的任何问题。 |
